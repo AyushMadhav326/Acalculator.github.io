@@ -1,0 +1,135 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: linear-gradient(
+        to right,
+        rgb(255, 174, 0),
+        red,
+        orange
+    );
+    min-height: 100vh;
+    align-items: center;
+}
+h1{
+    text-align: center;
+    color: white;
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+.ayush{
+    align-items: center;
+    margin: auto;
+    border: 228px;
+    max-width: 228px;
+}
+.text{
+    width: 202px;
+    height: 25px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    font-family: 'Courier New', Courier, monospace\\
+    ;
+    font-size: larger;
+}
+
+.btn1{
+    width: 35px;
+    height: 30px;
+    margin-right: 20px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+}
+.btn2{
+    width: 35px;
+    height: 30px;
+    margin-right: 20px;
+    border-radius: 5px;
+}
+.btn3{
+    width: 35px;
+    height: 30px;
+    margin-right: 20px;
+    border-radius: 5px;
+}
+.btnplus{
+    width: 28px;
+    height: 30px;
+    border-radius: 5px;
+}
+.btn4{
+    width: 35px;
+    height: 30px;
+    margin-right: 20px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+}
+.btn5{
+    width: 35px;
+    height: 30px;
+    margin-right: 20px;
+    border-radius: 5px;
+}
+.btn6{
+    width: 35px;
+    height: 30px;
+    margin-right: 20px;
+    border-radius: 5px;
+}
+.btnminus{
+    width: 28px;
+    height: 30px;
+    margin-right: 20px;
+    border-radius: 5px;
+}
+.btn7{
+    width: 35px;
+    height: 30px;
+    margin-right: 20px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+}
+.btn8{
+    width: 35px;
+    height: 30px;
+    margin-right: 20px;
+    border-radius: 5px;
+}
+.btn9{
+    width: 35px;
+    height: 30px;
+    margin-right: 20px;
+    border-radius: 5px;
+}
+.btnmulti{
+    width: 28px;
+    height: 30px;
+    margin-right: 20px;
+    border-radius: 5px;
+}
+.btnc{
+    width: 35px;
+    height: 30px;
+    margin-right: 20px;
+    border-radius: 5px;
+}
+.btn0{
+    width: 35px;
+    height: 30px;
+    margin-right: 20px;
+    border-radius: 5px;
+}
+.btnequal{
+    width: 35px;
+    height: 30px;
+    margin-right: 20px;
+    border-radius: 5px;
+}
+.btndivide{
+    width: 28px;
+    height: 30px;
+    margin-right: 20px;
+    border-radius: 5px;
+}
